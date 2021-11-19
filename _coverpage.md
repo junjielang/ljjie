@@ -6,5 +6,5 @@
 - 一名普通的高中生
 - 热爱生活，追逐梦想
 
-[联系方式](http://langjunjie.cn/#/cntact)
+[联系方式](http://langjunjie.cn/#/contact)
 [我的笔记](http://langjunjie.cn/#/note)
