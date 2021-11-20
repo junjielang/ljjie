@@ -7,6 +7,7 @@
 
   - [公众平台](share.md)
   - [社交平台](contact.md)
+  - [其他平台](others.md)
 
 
 - 关于
