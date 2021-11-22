@@ -27,6 +27,41 @@
   };
   </script>    
 
+    <script src="js/L2Dwidget.min.js"></script>
+  <script>
+  L2Dwidget.init({
+    "model": {
+      //jsonpath控制显示那个小萝莉模型，
+      //(切换模型需要改动)
+      jsonPath: "json/koharu.model.json",
+      "scale": 1
+    },
+    "display": {
+      "position": "right", //看板娘的表现位置
+      "width": 70,  //小萝莉的宽度
+      "height": 140, //小萝莉的高度
+      "hOffset": 35,
+      "vOffset": -20
+    },
+    "mobile": {
+      "show": true,
+      "scale": 0.5
+    },
+    "react": {
+      "opacityDefault": 0.7,
+      "opacityOnHover": 0.2
+    }
+  });
+</script>
+
+<script src="js/sweetalert.min.js"></script>
+  <script>
+    document.body.oncopy = function () {
+     swal("复制成功 🎉",
+             "若要转载或引用请务必保留原文链接，并申明来源。",
+             "success"); };
+  </script>
+  
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
 </body>
 </html>
