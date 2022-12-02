@@ -1,1 +1,1 @@
-* [慕念学习社区](http://mnxs.ljjie.cn)
+* [秋念的个人主页](http://langjunjie.cn)
