@@ -5,9 +5,9 @@
 
 - 联系
 
-  - [公众平台](share.md)
-  - [社交平台](contact.md)
-  - [其他平台](others.md)
+  - [娱乐](share.md)
+  - [社交](contact.md)
+  - [其他](others.md)
 
 
 - 关于
