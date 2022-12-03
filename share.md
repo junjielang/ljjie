@@ -1,8 +1,13 @@
-## 公众平台
+## 娱乐
 ### 抖音
 #### [慕念河](https://v.douyin.com/RAC29RQ/)
 
 [**打开个人主页**](https://v.douyin.com/RAC29RQ/)
+
+### 快手
+#### [慕念河](https://v.kuaishou.com/zd2r4G)
+
+[**打开个人主页**](https://v.kuaishou.com/zd2r4G)
 
 ### 知乎
 #### [一睹沦陷](https://www.zhihu.com/people/junjieing)
@@ -15,7 +20,7 @@
 [**打开个人主页**](https://music.163.com/#/artist?id=47843117)
 
 ### 微博
-#### [一睹沦陷](https://weibo.com/junjie0328)
+#### [慕念河](https://weibo.com/junjie0328)
 
 [**打开个人主页**](https://weibo.com/junjie0328)
 
