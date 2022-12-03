@@ -1,4 +1,4 @@
-## 其他平台
+## 其他
 ### Github（USA）
 #### [Qiunian](https://github.com/yidulx)
 
