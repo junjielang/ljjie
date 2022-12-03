@@ -1,4 +1,4 @@
-## 社交平台
+## 社交
 ### QQ
 #### [秋念](https://qm.qq.com/cgi-bin/qm/qr?k=b6WCs-_a3yEyIH0X2LF-yFCecWLuHp1A&noverify=0)
 > QQ号：47370747<br>
