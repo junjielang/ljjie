@@ -1,68 +1,44 @@
 ## 其他
-### Github（USA）
-#### [Qiunian](https://github.com/yidulx)
+#### [呆啵宠物 - 原神版](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact)
 
-[**打开个人主页**](https://github.com/yidulx)
+[呆啵宠物 - 原神版](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact)
 
-### Gitee（CN）
-#### [Qiunian](https://gitee.com/yidulx)
+#### [白眼](https://epcdiy.org/)
 
-[**打开个人主页**](https://gitee.com/yidulx)
+[白眼](https://epcdiy.org/)
 
-### 腾讯云
-#### [yidulx](https://console.cloud.tencent.com/)
-> ID：100010821382<br>
+#### [HEU_KMS(be9x)](https://cloud.189.cn/web/share?code=qYnmMfn6v6re)
 
-[**打开控制台**](https://console.cloud.tencent.com/)
+[HEU_KMS(be9x)](https://cloud.189.cn/web/share?code=qYnmMfn6v6re)
 
-### 阿里云
-#### [Qiunian](https://homenew.console.aliyun.com/)
-> 用户名：junjielang<br>
+#### [GEEK](https://geekuninstaller.com/)
 
-[**打开控制台**](https://homenew.console.aliyun.com/)
+[GEEK](https://geekuninstaller.com/)
 
-### 语雀
-#### [慕念河](https://www.yuque.com/mnxh)
+#### [Everything](https://www.voidtools.com/zh-cn/)
 
-[**打开个人主页**](https://www.yuque.com/mnxh)
+[Everything](https://www.voidtools.com/zh-cn/)
 
+#### [IObitUninstaller](https://advanced-uninstaller.en.softonic.com/)
 
-### 百度网盘
-#### [慕念河](https://pan.baidu.com)
+[IObitUninstaller标准版](https://advanced-uninstaller.en.softonic.com/)<br>
+[IObitUninstallerPRO(go9s)](https://cloud.189.cn/web/share?code=nI3UbujumaUz)
 
-[**打开百度网盘**](https://pan.baidu.com)
+#### [7-zip](https://7-zip.org/)
 
-### 阿里云盘
-#### [慕念河](https://www.aliyundrive.com/)
+[7-zip](https://7-zip.org/)
 
-[**打开阿里云盘**](https://www.aliyundrive.com/)
+#### [Bandizip](http://cn.bandisoft.com/bandizip/)
 
-### 腾讯微云
-#### [秋念](https://www.weiyun.com/)
+[Bandizip](http://cn.bandisoft.com/bandizip/)
 
-[**打开腾讯微云**](https://www.weiyun.com/)
+#### [AIDA64](https://www.aida64.com/downloads)
 
-### 华为账号
-#### [13840****06](https://id1.huawei.com/)
-
-[**打开华为账号**](https://id1.huawei.com/)<br>
-[**打开花瓣邮箱**](https://www.petalmail.com/)
-
-### QQ邮箱（QQ）
-#### [秋念](https://mail.qq.com/)
-
-[**打开QQ邮箱**](https://mail.qq.com/)
-
-### QQ邮箱（微信）
-#### [秋念](https://weixin.mail.qq.com/)
-
-[**打开QQ邮箱**](https://weixin.mail.qq.com/)
+[AIDA64](https://www.aida64.com/downloads)
 
 
-### 网易通行证
-#### [网易安全中心](https://reg.163.com/)
 
-[**打开网易账号**](https://reg.163.com/)<br>
-[**打开网易邮箱**](https://email.163.com/)
+模板：<br>
+#### []()
 
-
+[]()
