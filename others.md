@@ -36,6 +36,26 @@
 
 [AIDA64](https://www.aida64.com/downloads)
 
+#### [Cellular-Z](https://sj.qq.com/appdetail/make.more.r2d2.cellular_z?source=gdaq)
+
+[Cellular-Z](https://sj.qq.com/appdetail/make.more.r2d2.cellular_z?source=gdaq)
+
+#### [X浏览器](https://www.xbext.com/)
+
+[X浏览器](https://www.xbext.com/)
+
+#### [酷安](https://www.coolapk.com/)
+
+[酷安](https://www.coolapk.com/)
+
+
+
+
+
+
+
+
+
 
 
 模板：<br>
