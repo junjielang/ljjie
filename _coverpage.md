@@ -1,10 +1,10 @@
 # L55
 
-> L55的个人主页
+> L55的工具整理站
 
-- 星光不问赶路人，时光不负有心人。
-- 高中生
-- 通过左下角菜单（≡）来切换页面
+- 电脑端直接下滑或单击“工具下载”按钮
+- 手机端请点击左下角“恒等于号（≡）”
+- 或点击下方“工具下载”按钮
 
-[联系方式](http://langjunjie.cn/#/contact)
-[我的笔记](http://langjunjie.cn/#/note)
+[联系方式](http://langjunjie.cn/#/contant)
+[工具下载](http://langjunjie.cn/#/others)
