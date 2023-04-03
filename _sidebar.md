@@ -5,7 +5,6 @@
 
 - 联系
 
-  - [娱乐](share.md)
   - [社交](contact.md)
   - [其他](others.md)
 
