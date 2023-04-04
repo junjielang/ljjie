@@ -98,10 +98,19 @@
 备用下载地址：<br>
 [清浊-Android（密码：l55）](https://ljj06.lanzout.com/iolV20s0ydgh)
 
+### [腾讯软件管理](https://ljj06.lanzout.com/ippcw0s2qzre)
+##### 软件管理工具
+**简介**：密码：5bk3，腾讯软件管家（独立版)<br>
+**适用端**：Windows<br>
+备用下载地址：<br>
+[无备用下载]()
 
-
-
-
+### [QQ截图工具](https://ljj06.lanzout.com/iMVM00s2r0ad)
+##### 全能截图工具
+**简介**：从WindowsQQ分离<br>
+**适用端**：Windows<br>
+备用下载地址：<br>
+[无]()
 
 
 模板：<br>
