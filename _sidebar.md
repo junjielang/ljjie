@@ -3,10 +3,11 @@
   - [我的笔记](note.md)
 
 
-- 联系
+- 综合
 
-  - [社交](contact.md)
-  - [其他](others.md)
+  - [联系方式](contact.md)
+  - [实用工具](others.md)
+  - [集银行卡](dcard.md)
 
 
 - 关于
