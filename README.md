@@ -1,7 +1,16 @@
-## README
+[LangJunjie](http://langjunjie.cn)
+=======
+**仅用于本人收集记录网络资源，他人使用产生不良影响概不负责**
 
-> [我的个人页面](http://langjunjie.cn)
+* [更多页面](./ops.md)
 
-欢迎访问我的文档网站.<br>
-手机左下角≡以打开导航
+`LangJunjie` 
+
+
+
+相关网站页面
+---
+
+- 联系方式：[联系方式](./link.md)
+- 资源记录：[资源记录](./dlist.md)
 
