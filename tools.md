@@ -1,4 +1,12 @@
-## 其他
+## Tools
+### [Smsforwarder](https://github.com/pppscn/SmsForwarder)
+##### 短信转发器
+**简介**：监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机<br>
+**适用端**：Android<br>
+备用下载地址：<br>
+[备用1](https://gitee.com/pp/SmsForwarder/releases)<br>
+[备用2（密码：pppscn）](https://wws.lanzoui.com/b025yl86h)
+
 ### [呆啵宠物 - 原神版](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact)
 ##### 原神桌宠（开源）
 **简介**：呆啵宠物 (DyberPet) 原神版是基于呆啵宠物框架创造的原神桌宠<br>
@@ -33,6 +41,13 @@
 **适用端**：Windows<br>
 备用下载地址：<br>
 [Everything](https://www.voidtools.com/zh-cn/)
+
+### [IDM](https://ljj06.lanzout.com/iFo870t70rod)
+##### 互联网文件下载
+**简介**：IDM下载器是一个十分好用的文件下载工具<br>
+**适用端**：Windows<br>
+备用下载地址：<br>
+[备用下载（密码：vv8n）](https://cloud.189.cn/t/mA7R7fEFR7na)
 
 ### [IObitUninstaller](https://advanced-uninstaller.en.softonic.com/)
 ##### 软件卸载工具
@@ -111,6 +126,16 @@
 **适用端**：Windows<br>
 备用下载地址：<br>
 [无]()
+
+### MicrosoftOffice2021
+##### 微软办公套件
+**简介**：微软办公套件（Word、Excel等）<br>
+**适用端**：Windows<br>
+下载地址：<br>
+[家庭和学生版](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/HomeStudent2021Retail.img)
+[专业版](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Professional2021Retail.img)
+[专业增强版](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2021Retail.img)
+
 
 
 模板：<br>
