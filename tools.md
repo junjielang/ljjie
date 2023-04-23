@@ -47,7 +47,7 @@
 **简介**：IDM下载器是一个十分好用的文件下载工具<br>
 **适用端**：Windows<br>
 备用下载地址：<br>
-[备用下载（密码：vv8n）](https://cloud.189.cn/t/mA7R7fEFR7na)
+[备用下载（密码：6p5m）](https://cloud.189.cn/web/share?code=rQ3ARnvEjMnq)
 
 ### [IObitUninstaller](https://advanced-uninstaller.en.softonic.com/)
 ##### 软件卸载工具
@@ -145,3 +145,5 @@
 **适用端**：<br>
 备用下载地址：<br>
 [（密码：）]()
+
+（访问码：6p5m）
