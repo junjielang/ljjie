@@ -144,7 +144,14 @@
 [Ventoy-zip](https://ljj06.lanzout.com/ijjGq0trx9ih)
 [官网下载](https://www.ventoy.net/cn/)
 
-模板：<br>
+### [Via](https://www.coolapk.com/apk/mark.via)
+##### 小内存浏览器
+**简介**：简单与速度带来的浏览体验，耳目一新。<br>
+**适用端**：<br>
+备用下载地址：<br>
+[无]()
+
+
 ### []()
 ##### 
 **简介**：<br>
