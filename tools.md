@@ -141,7 +141,8 @@
 **简介**：多系统引导工具<br>
 **适用端**：x86/x64平台<br>
 备用下载地址：<br>
-[备用](https://ljj06.lanzout.com/ijjGq0trx9ih)
+[Ventoy-zip](https://ljj06.lanzout.com/ijjGq0trx9ih)
+[官网下载](https://www.ventoy.net/cn/)
 
 模板：<br>
 ### []()
