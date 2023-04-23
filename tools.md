@@ -136,7 +136,12 @@
 [专业版](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Professional2021Retail.img)
 [专业增强版](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2021Retail.img)
 
-
+### [Ventoy](https://github.com/ventoy/Ventoy)
+##### 系统引导工具
+**简介**：多系统引导工具<br>
+**适用端**：x86/x64平台<br>
+备用下载地址：<br>
+[备用](https://ljj06.lanzout.com/ijjGq0trx9ih)
 
 模板：<br>
 ### []()
@@ -146,4 +151,3 @@
 备用下载地址：<br>
 [（密码：）]()
 
-（访问码：6p5m）
