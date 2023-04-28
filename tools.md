@@ -28,6 +28,13 @@
 备用下载地址：<br>
 [无备用下载](https://cloud.189.cn/web/share?code=qYnmMfn6v6re)
 
+### [ForceToolkit](https://forcetoolkit.en.softonic.com/)
+##### 窗口控制器
+**简介**：ForceToolkit是由AutoClose开发的一个小而强大的实用程序应用程序。<br>
+**适用端**：Windows<br>
+备用下载地址：<br>
+[（密码：）]()
+
 ### [GEEK](https://geekuninstaller.com/)
 ##### 软件卸载工具
 **简介**：执行深度和快速扫描并清除所有残余文件<br>
