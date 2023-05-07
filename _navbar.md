@@ -1,1 +1,1 @@
-* [LangJunjie的个人主页](http://langjunjie.cn)
+* [LJJIE的个人主页](http://ljjie.cn)
