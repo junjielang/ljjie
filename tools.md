@@ -1,6 +1,6 @@
 ## Tools
 ### [Smsforwarder](https://github.com/pppscn/SmsForwarder)
-##### 短信转发器
+##### 短信转发（开源）
 **适用端**：Android<br>
 备用下载地址：<br>
 [备用1](https://gitee.com/pp/SmsForwarder/releases)<br>
@@ -13,7 +13,7 @@
 [无备用下载](https://github.com/ChaozhongLiu/DyberPet_GenshinImpact)
 
 ### [白眼](https://epcdiy.org/)
-##### 配置检测软件（PC与手机）
+##### 配置检测软件
 **适用端**：Windows/Android<br>
 备用下载地址：<br>
 [无备用下载](https://epcdiy.org/)
@@ -130,11 +130,33 @@
 备用下载地址：<br>
 [无]()
 
+### []()
+##### 
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
 
 ### []()
 ##### 
-**简介**：<br>
 **适用端**：<br>
 备用下载地址：<br>
-[（密码：）]()
+[无备用下载]()
+
+### []()
+##### 
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### []()
+##### 
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### []()
+##### 
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
 
