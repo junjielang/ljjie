@@ -1,4 +1,5 @@
 ## Tools
+`注：网盘分享只含Windows或Android版本`
 ### [Smsforwarder](https://github.com/pppscn/SmsForwarder)
 ##### 短信转发（开源）
 **适用端**：Android<br>
@@ -22,7 +23,7 @@
 ##### KMS激活工具
 **适用端**：Windows<br>
 备用下载地址：<br>
-[无备用下载](https://cloud.189.cn/web/share?code=qYnmMfn6v6re)
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/izWQs154chpa))
 
 ### [ForceToolkit](https://forcetoolkit.en.softonic.com/)
 ##### 窗口控制器
@@ -34,13 +35,13 @@
 ##### 软件卸载工具
 **适用端**：Windows<br>
 备用下载地址：<br>
-[无备用下载](https://geekuninstaller.com/)
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/i54nh154cp7a)
 
 ### [Everything](https://www.voidtools.com/zh-cn/)
 ##### 文件查找工具
 **适用端**：Windows<br>
 备用下载地址：<br>
-[无备用下载](https://www.voidtools.com/zh-cn/)
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/i6P5u154cmsd)
 
 ### [IObitUninstaller](https://advanced-uninstaller.en.softonic.com/)
 ##### 软件卸载工具
@@ -52,61 +53,48 @@
 ##### 压缩软件（开源）
 **适用端**：Windows<br>
 备用下载地址：<br>
-[无备用下载](https://7-zip.org/)
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/is1Dl154c6gf)
 
 ### [Bandizip](http://cn.bandisoft.com/bandizip/)
 ##### 压缩软件
 **适用端**：Windows/MacOS<br>
 备用下载地址：<br>
-[蓝奏云（密码：597a）](https://ljj06.lanzout.com/iGh5M0s0yyuh)
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/i0kRn154bj8j)
 
 ### [AIDA64](https://www.aida64.com/downloads)
 ##### 配置检测软件
 **适用端**：Android/iOS<br>
 备用下载地址：<br>
-[蓝奏云（密码：4fz6）](https://ljj06.lanzout.com/iOj2X0s0yule)
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/ir1EK154braj)
 
 ### [Cellular-Z](https://www.coolapk.com/apk/make.more.r2d2.cellular_z)
 ##### 手机信号检测工具
 **适用端**：Android<br>
 备用下载地址：<br>
-[蓝奏云（密码：g45b）](https://ljj06.lanzout.com/iX6LR0s0yowj)
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/itRkD154br8h)
 
 ### [X浏览器](https://www.xbext.com/)
 ##### 体积小、简洁的浏览器
 **适用端**：Android<br>
 备用下载地址：<br>
-[蓝奏云（密码：aexr）](https://ljj06.lanzout.com/ioPSK0s0ymbg)
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/i2AZw154br9i)
 
 ### [酷安](https://www.coolapk.com/)
 ##### 数码爱好者社区
 **适用端**：Android/iOS<br>
 备用下载地址：<br>
-[蓝奏云密码：an57）](https://ljj06.lanzout.com/ijsuU0s0yk3g)
+[蓝奏云密码：mnh）](https://munianhe.lanzouy.com/igh2Z154brpe)
 
 ### [MT管理器](https://www.coolapk.com/game/21048)
 **适用端**：Android<br>
 备用下载地址：<br>
-[蓝奏云（密码：l55）](https://ljj06.lanzout.com/iUNcb0s0y6ti)
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/iHLXf154br3c)
 
 ### [清浊](https://www.coolapk.com/apk/com.farplace.qingzhuo)
 ##### 文件清理工具
 **适用端**：Android<br>
 备用下载地址：<br>
-[蓝奏云（密码：l55）](https://ljj06.lanzout.com/iolV20s0ydgh)
-
-### [腾讯软件管理](https://ljj06.lanzout.com/ippcw0s2qzre)
-##### 软件管理工具
-**简介**：密码：5bk3，腾讯软件管家（独立版)<br>
-**适用端**：Windows<br>
-备用下载地址：<br>
-[无备用下载]()
-
-### [QQ截图工具](https://ljj06.lanzout.com/iMVM00s2r0ad)
-##### 全能截图工具
-**适用端**：Windows<br>
-备用下载地址：<br>
-[无备用下载]()
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/iSh0c154br5e)
 
 ### MicrosoftOffice2021
 ##### 微软办公套件
@@ -118,7 +106,7 @@
 ### [Ventoy](https://github.com/ventoy/Ventoy)
 ##### 系统引导工具（开源）
 备用下载地址：<br>
-[蓝奏云](https://ljj06.lanzout.com/ijjGq0trx9ih)
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/iisVE154buli)
 [官网下载](https://www.ventoy.net/cn/)
 
 ### [Via](https://www.coolapk.com/apk/mark.via)
@@ -130,7 +118,7 @@
 ##### 软件卸载工具（开源）
 **适用端**：Windows<br>
 备用下载地址：<br>
-[无备用下载]()
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/iDfYt154c77c)
 
 ### [Chromium](https://download-chromium.appspot.com/)
 ##### 浏览器（开源）
@@ -140,13 +128,13 @@
 ### [Firefox](https://www.mozilla.org/)
 ##### 浏览器（开源）
 备用下载地址：<br>
-[无备用下载]()
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/iCUHf154c7lg)
 
 ### [HMCL](https://github.com/huanghongxun/HMCL)
 ##### 我的世界启动器（开源）
 **适用端**：Windows<br>
 备用下载地址：<br>
-[无备用下载]()
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/itPoj154chqb)
 
 ### [ONLYOFFICE](https://www.onlyoffice.com/)
 ##### 办公套件（开源）
@@ -164,25 +152,20 @@
 ##### 在线音乐播放器（开源）
 **适用端**：<br>
 备用下载地址：<br>
-[无备用下载]()
+[蓝奏云（密码：mnh）-安装](https://munianhe.lanzouy.com/i3Lav154c8fg)<br>
+[蓝奏云（密码：mnh）-便携](https://munianhe.lanzouy.com/iPIyb154chkf)
 
 ### [VLC](https://www.videolan.org/vlc/)
 ##### 播放器（开源）
 **适用端**：<br>
 备用下载地址：<br>
-[无备用下载]()
-
-### [MPV](https://mpv.io/)
-##### 播放器（开源）
-**适用端**：<br>
-备用下载地址：<br>
-[无备用下载]()
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/iJVgM154c8zg)
 
 ### [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/)
 ##### 下载器（开源）
 **适用端**：<br>
 备用下载地址：<br>
-[无备用下载]()
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/iu9S6154c8ij)
 
 ### [OBS](https://obsproject.com/)
 ##### 推流软件（开源）
@@ -194,37 +177,40 @@
 ##### 远程控制软件（开源）
 **适用端**：<br>
 备用下载地址：<br>
-[无备用下载]()
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/ijgYp154c8ne)
 
 ### [Alist](https://github.com/alist-org/alist/)
 ##### 网盘聚合软件（开源）
 **适用端**：<br>
 备用下载地址：<br>
-[无备用下载]()
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/ibnJz154chmh)
 
 ### [Anydesk](https://anydesk.com/zhs)
 ##### 远程控制软件
 **适用端**：<br>
 备用下载地址：<br>
-[无备用下载]()
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/i1Lx1154cluj)
 
 ### [Adobe Acrobat Reader](https://www.adobe.com/cn/acrobat/pdf-reader.html)
 ##### PDF阅读器
 **适用端**：<br>
 备用下载地址：<br>
-[无备用下载]()
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/iy64i154cmqb)
 
 ### [Geogebra](https://www.geogebra.org/)
 ##### 数学工具
 **适用端**：<br>
-备用下载地址：<br>
-[无备用下载]()
+备用下载地址：`蓝奏云（密码：mnh）`<br>
+[GeoGebra](https://munianhe.lanzouy.com/ilQJH154cn1c)<br>
+[GeoGebraGeometry](https://munianhe.lanzouy.com/ie66t154cnij)<br>
+[GeoGebraCAS](https://munianhe.lanzouy.com/iLkN2154cncd)<br>
+[GeoGebraCalculator](https://munianhe.lanzouy.com/iw0z5154cn8j)
 
 ### [Free Download Manager](https://www.freedownloadmanager.org/zh/)
 ##### 下载器
 **适用端**：<br>
 备用下载地址：<br>
-[无备用下载]()
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/iWMdC154cmuf)
 
 ### [Potplayer](http://potplayer.daum.net/)
 ##### 播放器
@@ -236,13 +222,13 @@
 ##### Steam
 **适用端**：<br>
 备用下载地址：<br>
-[无备用下载]()
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/ipPS4154cnkb)
 
 ### [Minecraft（国际）](https://www.minecraft.net/zh-hans)
 ##### Minecraft官方网站
 **适用端**：<br>
 备用下载地址：<br>
-[无备用下载]()
+[蓝奏云（密码：mnh）](https://munianhe.lanzouy.com/i7C59154cnja)
 
 ### []()
 ##### 
