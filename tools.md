@@ -68,7 +68,7 @@
 [AIDA64-Android（密码：4fz6）](https://ljj06.lanzout.com/iOj2X0s0yule)
 
 ### [Cellular-Z](https://www.coolapk.com/apk/make.more.r2d2.cellular_z)
-##### 手机信号检测工具（安卓）
+##### 手机信号检测工具
 **适用端**：Android<br>
 备用下载地址：<br>
 [Cellular-Z-Android（密码：g45b）](https://ljj06.lanzout.com/iX6LR0s0yowj)
@@ -111,27 +111,136 @@
 
 ### MicrosoftOffice2021
 ##### 微软办公套件
-**适用端**：Windows<br>
 下载地址：<br>
 [家庭和学生版](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/HomeStudent2021Retail.img)
 [专业版](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/Professional2021Retail.img)
 [专业增强版](http://officecdn.microsoft.com/pr/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/zh-cn/ProPlus2021Retail.img)
 
 ### [Ventoy](https://github.com/ventoy/Ventoy)
-##### 系统引导工具
-**适用端**：x86/x64平台<br>
+##### 系统引导工具（开源）
 备用下载地址：<br>
 [Ventoy-zip](https://ljj06.lanzout.com/ijjGq0trx9ih)
 [官网下载](https://www.ventoy.net/cn/)
 
 ### [Via](https://www.coolapk.com/apk/mark.via)
 ##### 小内存浏览器
-**适用端**：<br>
 备用下载地址：<br>
 [无]()
 
-### []()
-##### 
+### [Bulk Crap Uninstaller](https://www.bcuninstaller.com/)
+##### 软件卸载工具（开源）
+**适用端**：Windows<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [Chromium](https://download-chromium.appspot.com/)
+##### 浏览器（开源）
+备用下载地址：<br>
+[无备用下载]()
+
+### [Firefox](https://www.mozilla.org/)
+##### 浏览器（开源）
+备用下载地址：<br>
+[无备用下载]()
+
+### [HMCL](https://github.com/huanghongxun/HMCL)
+##### 我的世界启动器（开源）
+**适用端**：Windows<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [ONLYOFFICE](https://www.onlyoffice.com/)
+##### 办公套件（开源）
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [LibreOffice](https://www.libreoffice.org/)
+##### 办公套件（开源）
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [LX Music](https://github.com/lyswhut/lx-music-desktop/)
+##### 在线音乐播放器（开源）
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [VLC](https://www.videolan.org/vlc/)
+##### 播放器（开源）
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [MPV](https://mpv.io/)
+##### 播放器（开源）
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/)
+##### 下载器（开源）
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [OBS](https://obsproject.com/)
+##### 推流软件（开源）
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [Rustdesk](https://rustdesk.com/zh/)
+##### 远程控制软件（开源）
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [Alist](https://github.com/alist-org/alist/)
+##### 网盘聚合软件（开源）
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [Anydesk](https://anydesk.com/zhs)
+##### 远程控制软件
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [Adobe Acrobat Reader](https://www.adobe.com/cn/acrobat/pdf-reader.html)
+##### PDF阅读器
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [Geogebra](https://www.geogebra.org/)
+##### 数学工具
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [Free Download Manager](https://www.freedownloadmanager.org/zh/)
+##### 下载器
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [Potplayer](http://potplayer.daum.net/)
+##### 播放器
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [Steam](https://store.steampowered.com/)
+##### Steam
+**适用端**：<br>
+备用下载地址：<br>
+[无备用下载]()
+
+### [Minecraft（国际）](https://www.minecraft.net/zh-hans)
+##### Minecraft官方网站
 **适用端**：<br>
 备用下载地址：<br>
 [无备用下载]()
@@ -141,22 +250,3 @@
 **适用端**：<br>
 备用下载地址：<br>
 [无备用下载]()
-
-### []()
-##### 
-**适用端**：<br>
-备用下载地址：<br>
-[无备用下载]()
-
-### []()
-##### 
-**适用端**：<br>
-备用下载地址：<br>
-[无备用下载]()
-
-### []()
-##### 
-**适用端**：<br>
-备用下载地址：<br>
-[无备用下载]()
-
